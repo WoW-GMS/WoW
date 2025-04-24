@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shucayb\\source\\repos\\WoW\\WoW\\WoW.csproj",
+      "projectUniqueName": "C:\\Users\\Shucayb\\Desktop\\Eks\\WoW\\WoW.csproj",
       "projectName": "WoW",
-      "projectPath": "C:\\Users\\Shucayb\\source\\repos\\WoW\\WoW\\WoW.csproj",
+      "projectPath": "C:\\Users\\Shucayb\\Desktop\\Eks\\WoW\\WoW.csproj",
       "packagesPath": "C:\\Users\\Shucayb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shucayb\\source\\repos\\WoW\\WoW\\obj\\",
+      "outputPath": "C:\\Users\\Shucayb\\Desktop\\Eks\\WoW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shucayb\\AppData\\Roaming\\NuGet\\NuGet.Config",

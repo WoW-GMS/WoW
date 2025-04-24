@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WoW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ae434a9558b4790a456244b7b821bb0630b36d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08a796b7bbd270914860157eb353aa9cef1acc41")]
 [assembly: System.Reflection.AssemblyProductAttribute("WoW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WoW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
