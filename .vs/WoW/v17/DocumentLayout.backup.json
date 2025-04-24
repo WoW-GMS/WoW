@@ -1,7 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shucayb\\Desktop\\Eks\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\theod\\source\\repos\\WoW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\pages\\viewapplications.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\pages\\viewapplications.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\pages\\createapplication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\pages\\createapplication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\model\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\model\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\mockdata\\mockapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\mockdata\\mockapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\model\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\model\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|c:\\users\\theod\\source\\repos\\wow\\wow\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FB263B-2AFF-4FC9-9479-CADB8DC729CF}|WoW\\WoW.csproj|solutionrelative:wow\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\.gitignore",
+              "RelativeDocumentMoniker": "WoW\\.gitignore",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\.gitignore",
+              "RelativeToolTip": "WoW\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-24T20:35:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MockApplications.cs",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\MockData\\MockApplications.cs",
+              "RelativeDocumentMoniker": "WoW\\MockData\\MockApplications.cs",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\MockData\\MockApplications.cs",
+              "RelativeToolTip": "WoW\\MockData\\MockApplications.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:59:19.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewApplications.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Pages\\ViewApplications.cshtml.cs",
+              "RelativeDocumentMoniker": "WoW\\Pages\\ViewApplications.cshtml.cs",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Pages\\ViewApplications.cshtml.cs",
+              "RelativeToolTip": "WoW\\Pages\\ViewApplications.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:54:46.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Model\\ApplicationRepo.cs",
+              "RelativeDocumentMoniker": "WoW\\Model\\ApplicationRepo.cs",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Model\\ApplicationRepo.cs",
+              "RelativeToolTip": "WoW\\Model\\ApplicationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:37:42.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Model\\Application.cs",
+              "RelativeDocumentMoniker": "WoW\\Model\\Application.cs",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Model\\Application.cs",
+              "RelativeToolTip": "WoW\\Model\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:47:11.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WoW\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WoW\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T19:41:47.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Model\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "WoW\\Model\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Model\\MemberRepo.cs",
+              "RelativeToolTip": "WoW\\Model\\MemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:38:26.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateApplication.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Pages\\CreateApplication.cshtml.cs",
+              "RelativeDocumentMoniker": "WoW\\Pages\\CreateApplication.cshtml.cs",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Pages\\CreateApplication.cshtml.cs",
+              "RelativeToolTip": "WoW\\Pages\\CreateApplication.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:36:01.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WoW\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\theod\\source\\repos\\WoW\\WoW\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WoW\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:28:28.68Z"
             }
           ]
         }

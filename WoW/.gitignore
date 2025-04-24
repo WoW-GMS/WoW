@@ -1,0 +1,38 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+out/
+
+# Razor Pages temporary stuff
+**/wwwroot/lib/
+**/wwwroot/dist/
+**/wwwroot/node_modules/
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Logs
+*.log
+
+# Configuration
+appsettings.Development.json
+appsettings.Local.json
+
+# Rider / VS Code (optional)
+.idea/
+.vscode/
