@@ -39,9 +39,10 @@ namespace WoW.Model
 
 		public Member? DeleteMember(int memberId)
 		{
-			foreach (Member member in _members)
+			var member = _members.FirstOrDefault(m => m.MemberId == memberId);
+			if (member != null)
 			{
-				if (member.MemberId == memberId) _members.Remove(member);
+				_members.Remove(member);
 				return member;
 			}
 			return null;
@@ -50,6 +51,21 @@ namespace WoW.Model
 		public List<Member> GetMembers()
 		{
 			return new List<Member>(_members);
+		}
+
+		public Member? ChangeMemberRank(int actingMemberId, int targetMemberId, Rank newRank)
+		{
+			var actingMember = _members.FirstOrDefault(m => m.MemberId == actingMemberId);
+			var targetMember = _members.FirstOrDefault(m => m.MemberId == targetMemberId);
+
+			if (actingMember == null || targetMember == null)
+				return null;
+
+			if (actingMember.Rank != Rank.Officer)
+				throw new UnauthorizedAccessException("Only officers can change ranks.");
+
+			targetMember.Rank = newRank;
+			return targetMember;
 		}
 	}
 }
